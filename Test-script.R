@@ -1,0 +1,5 @@
+library(tidyverse)
+a <- available.packages()
+install.packages("githubinstall")
+library(data.table)
+library(githubinstall)
